@@ -46,6 +46,6 @@ Cybersecurity Labs	Security assessments and auditing
 * LinkedIn: https://www.linkedin.com/in/wandile-makhushu-37486336b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 * Email: pet.ros_m@icloud.com
 * Phone: 0826838770
-⸻
+  
 
 Continuously learning, building and improving my technical skills.
